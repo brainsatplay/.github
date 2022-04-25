@@ -1,2 +1,2 @@
 # .github
-Public profile for Brains@Play
+Community health files for the @brainsatplay organization
