@@ -1,5 +1,5 @@
 # Welcome to Brains@Play 👋
-<img src="/assets/hero.png">
+<img src="/assets/hero-min.png">
 
 <!--
 
