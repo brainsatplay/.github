@@ -1,4 +1,5 @@
 # Welcome to Brains@Play 👋
+<img src="./hero.png">
 
 <!--
 
@@ -11,10 +12,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/brainsatplay/awesome-brainsatplay)
-[![Discord](https://img.shields.io/badge/chat-discord-7289da.svg?sanitize=true)](https://discord.gg/CDxskSh9ZB)
-
-Brains@Play is developing **an ecosystem of AGPL software infrastructure for participating in biomedical research** on the Open Web. We are starting this journey in the field of brain-computer interfaces (BCIs) by developing them with everyone.
+Brains@Play is developing public biomedical infrastructure—specifically **AGPL software for high-performance  applications**—on the Open Web. We are starting this journey in the field of brain-computer interfaces (BCIs).
 
 ## How Do I Contribute?
 If you'd like to contribute to this project, hop into whichever repository you feel most aligned with and submit your first pull request! 
