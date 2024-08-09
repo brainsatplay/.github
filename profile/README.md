@@ -3,8 +3,6 @@
 
 From June 2021 to September 2023, Brains@Play developed software for building brain-computer interfaces (BCIs) on web browsers.
 
-public biomedical infrastructure—specifically **AGPL software for high-performance  applications**—on the Open Web.
-
 ## What Happened to Brains@Play?
 Brains@Play LLC was founded to develop low-cost biosensing hardware and browser-based BCI applications.
 
