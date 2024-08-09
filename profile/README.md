@@ -1,9 +1,9 @@
 <img src="/assets/hero-min.png">
 
-From June 2021 to September 2023, Brains@Play developed software for building brain-computer interfaces (BCIs) on web browsers.
+From June 2021 to September 2023, Brains@Play LLC developed software for building brain-computer interfaces (BCIs) on web browsers.
 
 ## What Happened to Brains@Play?
-Brains@Play LLC was founded to develop low-cost biosensing hardware and browser-based BCI applications.
+Brains@Play was founded to develop low-cost biosensing hardware and browser-based BCI applications.
 
 While we originally promoted ourselves through uniform access to biosensing devices on the [Brains@Play Platform](https://github.com/brainsatplay/platform), we began translating our monolithic product into standalone libraries in an attempt to simplify biosensing application development for all JavaScript developers. A record of this work can be found in the [Brains@Play Framework](https://github.com/brainsatplay/brainsatplay) repository.
 
