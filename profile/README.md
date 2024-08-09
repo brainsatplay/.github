@@ -1,4 +1,3 @@
-# Welcome to Brains@Play 👋
 <img src="/assets/hero-min.png">
 
 From June 2021 to September 2023, Brains@Play developed software for building brain-computer interfaces (BCIs) on web browsers.
