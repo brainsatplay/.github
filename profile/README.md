@@ -7,9 +7,9 @@ Brains@Play was founded to develop low-cost biosensing hardware and browser-base
 
 While we originally promoted ourselves through uniform access to biosensing devices on the [Brains@Play Platform](https://github.com/brainsatplay/platform), we began translating our monolithic product into standalone libraries in an attempt to simplify biosensing application development for all JavaScript developers. A record of this work can be found in the [Brains@Play Framework](https://github.com/brainsatplay/brainsatplay) repository.
 
-With the best intentions, we ultimately abandoned our core product to develop "AGPL software for high-performance  applications on the Open Web".
+With the best intentions, we abandoned our core product to develop "AGPL software for high-performance  applications on the Open Web".
 
-Over the next couple of years, we failed to secure sustainable funding and discontinued the partnership.
+Over the next few years, we were unable to secure sustainable funding—and ultimately discontinued the partnership.
 
 ## So What's Next?
 As of August 2024, [Garrett Flynn](https://github.com/garrettmflynn) and [Joshua Brewster](https://github.com/joshbrew) continue to independently release software for biosignal acquisition and BCI application development on web technologies.
