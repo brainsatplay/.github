@@ -14,6 +14,8 @@ Over the next few years, we were unable to secure sustainable funding—and ulti
 ## So What's Next?
 As of August 2024, [Garrett Flynn](https://github.com/garrettmflynn) and [Joshua Brewster](https://github.com/joshbrew) continue to independently release software for biosignal acquisition and BCI application development on web technologies.
 
+For inquiries, please contact Garrett Flynn at [garrettmflynn@gmail.com](mailto:garrettmflynn@gmail.com).
+
 <!-- Data Processing-->
 [brainsatplay]: https://github.com/brainsatplay/brainsatplay
 [brainsatplay-status]: https://img.shields.io/npm/v/brainsatplay.svg
